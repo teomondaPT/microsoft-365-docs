@@ -97,7 +97,8 @@ For each rule in a DLP policy, you can:
 
 ### Default email notification
 
-Notifications have a Subject line that begins with the action taken, such as "Notification", "Message Blocked" for email, or "Access Blocked" for documents. If the notification is about a document, the notification message body includes a link that takes you to the site where the document's stored and opens the policy tip for the document, where you can resolve any issues (see the section below about policy tips). If the notification is about a message, the notification includes as an attachment the message that matches a DLP policy.
+Notifications have a Subject line that begins with the action taken, such as "Notification", "Message Blocked" for email, or "Access Blocked" for documents. If the notification is about a document, the notification message body includes a link that takes you to the site where the document's stored and opens the policy tip for the document, where you can resolve any issues (see the section below about policy tips). It also includes references to the sensitive information types included in the document(s).
+If the notification is about a message, the notification includes as an attachment the message that matches a DLP policy.
 
 ![Notification message.](../media/35813d40-5fd8-425f-9624-55655e74fa6b.png)
 
