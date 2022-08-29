@@ -292,6 +292,7 @@ You can create up to five customized options that will appear when users interac
 By default, when devices are onboarded, activity for Office, PDF, and CSV files is automatically audited and available for review in activity explorer. Turn this feature off if you want this activity to be audited only when onboarded devices are included in an active policy.
 
 File activity will always be audited for onboarded devices, regardless of whether they're included in an active policy.
+   (please add a refernce so as to what exactly File Activity represents. In my research we are talking about the "auditable only" activities here: https://docs.microsoft.com/en-us/microsoft-365/compliance/endpoint-dlp-learn-about?source=recommendations&view=o365-worldwide#endpoint-activities-you-can-monitor-and-take-action-on, namely: File created and File renamed rather than Copy to network share, Upload to cloud etc.)
 
 ## See also
 
